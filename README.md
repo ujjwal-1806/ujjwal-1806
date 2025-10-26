@@ -18,24 +18,27 @@ Hi, I'm Ujjwal. I am doing an B.Tech from NSUT, Delhi, India in Instrumentaion a
 
 </details>
 
-<details open
->
+<details open>
+
  <summary>Hobbies</summary>
 
  |   Hobbies     |
  |:-------------:|
  |Reading book   |  
  | Sleeping      |
- |Listening music|
+ |Listening music|  
+
+</details>  
 
 ---
 ### **Lastly the quote I take inspiration from:** 
 > The greats do things when they don't want always want to, I think that's what separates good from great.
  - Michael Phelps
 
-<!-- To:Do ADD MORE DEtails -->
+- [x] Read :tada:
+
 Link to [About ME](#about-me)
 
 <p align="right">
-  <img src="https://cdn-icons-png.flaticon.com/512/6117/6117719.png" width="150" height="150"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/6117/6117719.png" alt="Thank You" width="150" height="150"/>
 </p>
