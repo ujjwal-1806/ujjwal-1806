@@ -1,24 +1,7 @@
 ## Hi there 👋
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/6c254918-3275-4e0e-ac96-4df7c1e58108" />
-">
- <source media="(prefers-color-scheme: light)" srcset="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/4b58e43b-b7ff-403e-84bb-a16de1c75665" />
-">
+ <source media="(prefers-color-scheme: dark)" srcset="<img width="512" height="512" alt="image" src="https://images.unsplash.com/photo-1761383052886-b7226d14e698?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2070">
+ <source media="(prefers-color-scheme: light)" srcset="<img width="512" height="512" alt="image" src="https://images.unsplash.com/photo-1761383052886-b7226d14e698?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2070">
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
-
-<!--
-**ujjwal-1806/ujjwal-1806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
