@@ -1,8 +1,11 @@
 ## Hi there 👋
+```python
+   print("Hello World!")
+```
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="<img width="512" height="512" alt="image" src="https://images.unsplash.com/photo-1761383052886-b7226d14e698?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2070">
  <source media="(prefers-color-scheme: light)" srcset="<img width="512" height="512" alt="image" src="https://images.unsplash.com/photo-1761383052886-b7226d14e698?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2070">
- <img alt="thanks" src="https://images.unsplash.com/photo-1761383052886-b7226d14e698?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2070">
+ <img alt="fireWorks" src="https://images.unsplash.com/photo-1761383052886-b7226d14e698?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2070">
 </picture>
 
 ## <ins>**About me**
@@ -12,9 +15,9 @@ Hi, I'm Ujjwal. I am doing an B.Tech from NSUT, Delhi, India in Instrumentaion a
  
 | Language | I'm good at |
 |:--------:|:-----------:|
-|  python  | proficient  |
-|  Cpp     | good        |
-|  MySQL   | proficient  |
+|  `python`  | proficient  |
+|  `Cpp`     | good        |
+|  `MySQL`   | proficient  |
 
 </details>
 
@@ -27,6 +30,8 @@ Hi, I'm Ujjwal. I am doing an B.Tech from NSUT, Delhi, India in Instrumentaion a
  |Reading book   |  
  | Sleeping      |
  |Listening music|  
+
+$`21`$ days all it takes to develop something a hobby.
 
 </details>  
 
