@@ -8,7 +8,7 @@
 ## About me
 Hi, I'm Ujjwal. I am doing an B.Tech from NSUT, Delhi, India in Instrumentaion and Control Engineering.
 <details>
- <summary>Programming Language</summary>
+ <summary>** Programming Language **</summary>
  
 | Language | I'm good at |
 |---------:|-------------|
@@ -18,11 +18,20 @@ Hi, I'm Ujjwal. I am doing an B.Tech from NSUT, Delhi, India in Instrumentaion a
 
 </details>
 
+<details>
+ <summary>Hobbies</summary>
+
+ |   Hobbies     |
+ |:--------------|
+ |Reading book   |  
+ | Sleeping      |
+ |Listening music|
+
 ---
+Lastly the quote I take inspiration from: 
 > The greats do things when they don't want always want to, I think that's what separates good from great.
  - Michael Phelps
-jdakjt
 
-
+<!-- To:Do ADD MORE DEtails -->
 
 
