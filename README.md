@@ -2,7 +2,8 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/6c254918-3275-4e0e-ac96-4df7c1e58108" />
 ">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/4b58e43b-b7ff-403e-84bb-a16de1c75665" />
+">
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
