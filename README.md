@@ -36,4 +36,4 @@ Hi, I'm Ujjwal. I am doing an B.Tech from NSUT, Delhi, India in Instrumentaion a
 <!-- To:Do ADD MORE DEtails -->
 Link to [About ME](#about-me)
 
-!<LOVE>(https://www.flaticon.com/free-icons/heart)
+!<LOVE>(https://www.flaticon.com/free-icon/heart_9484251?term=heart&page=1&position=7&origin=tag&related_id=9484251)
